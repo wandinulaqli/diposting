@@ -7,11 +7,11 @@ body {
 }
 h1 {
   text-align: center;
-  color: black;
+  color: yellow;
 }
 .grid-container {
   columns: 1 90%;
-  column-gap: 1.5rem;
+/*   column-gap: 1.5rem; */
   width: 100%;
   margin: 0 auto;
   div {
