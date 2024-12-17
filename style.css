@@ -10,7 +10,7 @@ h1 {
   color: black;
 }
 .grid-container {
-  columns: 5 600px;
+  columns: 5 100%;
   column-gap: 1.5rem;
   width: 90%;
   margin: 0 auto;
