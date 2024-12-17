@@ -10,15 +10,15 @@ h1 {
   color: black;
 }
 .grid-container {
-  columns: 1 100%;
+  columns: 1 90%;
   column-gap: 1.5rem;
   width: 90%;
   margin: 0 auto;
   div {
-    width: 100%;
+    width: 90%;
     margin: 0 1.5rem 1.5rem 0;
     display: inline-block;
-    width: 100%;
+    width: 90%;
     border: solid 2px black;
     padding: 5px;
     box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
