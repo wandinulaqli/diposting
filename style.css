@@ -7,7 +7,7 @@ body {
 }
 h1 {
   text-align: center;
-  color: yellow;
+  color: coral;
 }
 .grid-container {
   columns: 1 90%;
@@ -41,6 +41,7 @@ h1 {
       padding: 0;
       text-align: center;
       font-style: italic;
+      font-size: 20px;
     }
   }
 }
